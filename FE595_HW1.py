@@ -8,3 +8,5 @@ plt.plot(x, np.cos(x), label = 'Cos')
 plt.legend()
 
 plt.show()
+
+#for line4, it is not a curve, just a pattern of ten thousands of points. People can try 'np. linspace' to improve their words
